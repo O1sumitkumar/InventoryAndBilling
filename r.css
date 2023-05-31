@@ -1,0 +1,4 @@
+.element {
+    backdrop-filter: blur(10px); /* applies a blur effect to the element's background */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* applies a shadow effect to the element */
+}
